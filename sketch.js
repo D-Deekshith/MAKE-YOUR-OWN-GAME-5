@@ -28,8 +28,6 @@ function preload(){
   sindbadImg3 = loadAnimation('r20.png','r19.png','r18.png','r17.png','r16.png','r15.png','r14.png','r13.png','r12.png','r11.png','r10.png','r9.png','r8.png','r7.png','r6.png','r5.png','r4.png','r3.png','r2.png','r1.png');
   riverImg = loadImage('rive.png');
   wow =  loadSound('wow.mpeg');
-  soldierImg = loadAnimation('solder2.png','solder1.png','solder3.png','solder4.png');
-  sourive = loadSound('river.mpeg')
   boatImg = loadImage('boat.png');
   sindBoImg = loadImage('r1.png');
   backgroundImg = loadImage('background.jpg')
